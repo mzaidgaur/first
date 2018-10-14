@@ -1,2 +1,2 @@
 # first
-OS Project by zaid
+OS Project by maluma
